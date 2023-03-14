@@ -12,7 +12,7 @@
 
 /**********************************************SELECTORS**********************************************/
 body {
-    background-image: url("images/bg-pattern-bottom-desktop.svg");
+    background-image: url("./images/bg-pattern-bottom-desktop.svg");
     background-size: cover;
     font-family: "League Spartan", sans-serif;
     height: 100vh;
@@ -141,7 +141,7 @@ p {
 }
 
 .second-bg {
-    background-image: url("images/bg-pattern-top-desktop.svg");
+    background-image: url("./images/bg-pattern-top-desktop.svg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -169,7 +169,7 @@ p {
 
 @media (max-width: 800px){
     body {
-        background-image: url("images/bg-pattern-bottom-mobile.svg");
+        background-image: url("./images/bg-pattern-bottom-mobile.svg");
         height: 100%;
     }
 
@@ -232,6 +232,6 @@ p {
     }
 
     .second-bg {
-        background-image: url("images/bg-pattern-top-mobile.svg");
+        background-image: url("./images/bg-pattern-top-mobile.svg");
     }
 }
