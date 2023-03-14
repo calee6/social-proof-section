@@ -12,7 +12,7 @@
 
 /**********************************************SELECTORS**********************************************/
 body {
-    background-image: url(/images/bg-pattern-bottom-desktop.svg);
+    background-image: url(images/bg-pattern-bottom-desktop.svg);
     background-size: cover;
     font-family: "League Spartan", sans-serif;
     height: 100vh;
